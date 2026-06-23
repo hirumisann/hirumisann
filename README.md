@@ -109,7 +109,7 @@ Quote: "Membangun proyek sambil scroll pesbuk"
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-hirumisann-%23ffb454?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1130)](https://github.com/hirumisann)
-[![Instagram](https://img.shields.io/badge/Instagram-@USERNAME-%23f472b6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a1130)](https://instagram.com/hirumisann)
+[![Instagram](https://img.shields.io/badge/Instagram-@hirumisann-%23f472b6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a1130)](https://instagram.com/hirumisann)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hirumisann&color=ffb454&style=for-the-badge&label=VISITORS)
 
