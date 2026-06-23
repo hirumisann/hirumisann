@@ -86,13 +86,6 @@ Quote: "Membangun proyek sambil scroll pesbuk"
 
 </div>
 
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hirumisann&theme=onedark&no-frame=true&column=7&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ```
 ┌─────────────────────────────────────────────────────┐
 │  🤖  VIBE CODING          ▓▓▓▓▓▓▓▓▓▓  UNLOCKED ✓  │
@@ -112,7 +105,6 @@ Quote: "Membangun proyek sambil scroll pesbuk"
 
 </div>
 
-> **Setup Snake:** Buat file `.github/workflows/snake.yml` di repo `hirumisann/hirumisann` — lihat instruksi di bawah ⬇️
 
 <div align="center">
 
@@ -122,18 +114,6 @@ Quote: "Membangun proyek sambil scroll pesbuk"
 ![Profile Views](https://komarev.com/ghpvc/?username=hirumisann&color=ffb454&style=for-the-badge&label=VISITORS)
 
 </div>
-
-<div align="center">
-
-<!-- PIXEL GIF dari Giphy -->
-<img src="https://media.giphy.com/media/QsQl2vHWg9hkY/giphy.gif" width="120" />
-
-```
-◆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◆
-  "Menyalurkan semua ide ide ku kedalam
-   baris baris code untuk di nikmati :3"
-◆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◆
-```
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0a1130,151f40,ffb454&height=100&section=footer)
 
