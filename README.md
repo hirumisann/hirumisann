@@ -1,25 +1,18 @@
 <div align="center">
 
 <!-- HEADER PIXEL ART via capsule-render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0a1130,151f40,ffb454&height=200&section=header&text=Muhammad%20Hilmy&fontSize=40&fontColor=ffb454&fontAlignY=35&desc=🌙%20Night%20Coder%20%7C%20Web%20Developer%20%7C%20Vibe%20Coding%20Enjoyer&descAlignY=55&descColor=9aa3c7&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0a1130,151f40,ffb454&height=200&section=header&text=Muhammad%20Hilmy&fontSize=40&fontColor=ffb454&fontAlignY=35&desc=🌙%20Web%20Developer%20%7C%20Vibe%20Coding%20Enjoyer&descAlignY=55&descColor=9aa3c7&animation=fadeIn)
 
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FFB454&center=true&vCenter=true&width=600&height=50&lines=Pelajar+%7C+Web+Developer;REST+API+Builder+%F0%9F%93%A1;UI%2FUX+Explorer+%E2%9C%A8;Vibe+Coding+Enjoyer+%F0%9F%8E%AE;Night+Coder+%F0%9F%8C%99)](https://git.io/typing-svg)
 
-<!-- PIXEL DIVIDER -->
-```
-◆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◆
-          ★  PLAYER  SELECT  ★
-◆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◆
-```
+
 
 </div>
 
----
 
-## 🕹️ `PLAYER.EXE` — Tentang Aku
 
-```yaml
+```
 # ╔══════════════════════════════════════╗
 # ║         PLAYER CONFIGURATION        ║
 # ╚══════════════════════════════════════╝
@@ -35,20 +28,15 @@ focus:
   - ✨  UI/UX Design
 
 vibe_coding : true    # let AI handle the details
-night_mode  : true    # 🌙 best hours: 23:00 - 03:00
 
 tools:
   ai_pair:
-    - 🤖  Cursor
+    - 🤖  Gemini
     - 🟣  Claude
     - 💚  ChatGPT
 
-quote: "Membangun proyek sambil secangkir teh ☕ dan hujan rintik 🌧️"
+Quote: "Membangun proyek sambil scroll pesbuk"
 ```
-
----
-
-## 📊 `STATUS_PEMAIN.exe`
 
 <div align="center">
 
@@ -65,10 +53,6 @@ quote: "Membangun proyek sambil secangkir teh ☕ dan hujan rintik 🌧️"
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirumisann&bg_color=0a1130&color=9aa3c7&line=ffb454&point=ffd089&area=true&area_color=ffb454&hide_border=true" width="95%" />
 
 </div>
-
----
-
-## 💻 `TECH_STACK.ini`
 
 <div align="center">
 
@@ -90,7 +74,6 @@ quote: "Membangun proyek sambil secangkir teh ☕ dan hujan rintik 🌧️"
 
 ---
 
-## 🎮 `PROYEK_UTAMA.json`
 
 <div align="center">
 
@@ -103,9 +86,6 @@ quote: "Membangun proyek sambil secangkir teh ☕ dan hujan rintik 🌧️"
 
 </div>
 
----
-
-## 🏆 `ACHIEVEMENTS.log`
 
 <div align="center">
 
@@ -115,17 +95,11 @@ quote: "Membangun proyek sambil secangkir teh ☕ dan hujan rintik 🌧️"
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  🌙  NIGHT OWL CODER      ▓▓▓▓▓▓▓▓▓▓  UNLOCKED ✓  │
-│  🤖  AI COLLABORATOR      ▓▓▓▓▓▓▓▓▓▓  UNLOCKED ✓  │
-│  🌐  WEB BUILDER          ▓▓▓▓▓▓▓▓░░  IN PROGRESS  │
-│  📡  API ARCHITECT        ▓▓▓▓▓▓▓░░░  IN PROGRESS  │
-│  ☕  TEA MAGIC            ▓▓▓▓▓▓▓▓▓▓  MAX LEVEL  ✓ │
+│  🤖  VIBE CODING          ▓▓▓▓▓▓▓▓▓▓  UNLOCKED ✓  │
+│  🌐  WEB DEVELOPER        ▓▓▓▓▓▓▓▓░░  IN PROGRESS  │
+│  📡  UI/UX Design         ▓▓▓▓▓▓▓░░░  IN PROGRESS  │
 └─────────────────────────────────────────────────────┘
 ```
-
----
-
-## 🐍 `CONTRIBUTION_SNAKE.gif`
 
 <div align="center">
 
@@ -140,10 +114,6 @@ quote: "Membangun proyek sambil secangkir teh ☕ dan hujan rintik 🌧️"
 
 > **Setup Snake:** Buat file `.github/workflows/snake.yml` di repo `hirumisann/hirumisann` — lihat instruksi di bawah ⬇️
 
----
-
-## 📡 `CONNECT.sh`
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-hirumisann-%23ffb454?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1130)](https://github.com/hirumisann)
@@ -153,8 +123,6 @@ quote: "Membangun proyek sambil secangkir teh ☕ dan hujan rintik 🌧️"
 
 </div>
 
----
-
 <div align="center">
 
 <!-- PIXEL GIF dari Giphy -->
@@ -162,8 +130,8 @@ quote: "Membangun proyek sambil secangkir teh ☕ dan hujan rintik 🌧️"
 
 ```
 ◆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◆
-  "Dibuat dengan secangkir teh ☕
-   dan banyak baris kode di malam hari 🌙"
+  "Menyalurkan semua ide ide ku kedalam
+   baris baris code untuk di nikmati :3"
 ◆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◆
 ```
 
