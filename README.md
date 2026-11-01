@@ -37,15 +37,6 @@ currently_learning:
   - REST API Design
   - UI/UX Principles
 
-currently_building:
-  - AnimeSaku
-  - FilmSaku
-
-exploring:
-  - Cloudflare Workers
-  - Backend Development
-  - AI Pair Programming
-
 vibe_coding: true
 ```
 
@@ -186,9 +177,6 @@ Platform streaming film dengan fokus pada pengalaman pengguna dan UI modern.
 
 <div align="center">
 
-<a href="https://github.com/hirumisann">
-  <img src="https://img.shields.io/badge/GitHub-hirumisann-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <a href="https://instagram.com/hirumisann">
   <img src="https://img.shields.io/badge/Instagram-@hirumisann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -199,7 +187,7 @@ Platform streaming film dengan fokus pada pengalaman pengguna dan UI modern.
 
 <div align="center">
 
-### "Good code speaks louder than words."
+### "Fix Your Life Before It's Late."
 
 **Muhammad Hilmy** · `hirumisann`
 
