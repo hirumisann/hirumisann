@@ -13,11 +13,6 @@
 
 </div>
 
----
-
-## 👋 Tentang Saya
-
-```yaml
 name       : "Muhammad Hilmy"
 role       : "Pelajar & Web Developer"
 username   : "hirumisann"
